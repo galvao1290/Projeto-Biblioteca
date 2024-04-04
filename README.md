@@ -2,6 +2,10 @@
 
 <h2>Projeto de Biblioteca com Spring Boot </h2>
 
+<h3>Equipe: </h3>
+<h3>Miguel Galvão </h3>
+<h3>Pedro Henrique Salvador </h3>
+
 <h3>Introdução: </h3>
 <h3>O projeto demonstra a criação de um sistema de gestão de biblioteca ,tem como objetivo permitir
 que os usuários realizem o cadastro de livros, com informações como título do livro, autor, editora, ano, quantidade em estoque
