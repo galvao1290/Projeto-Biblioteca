@@ -37,3 +37,18 @@ e status de aluguel. </h3>
 <h3>Vídeo:</h3>
 
 
+Criação de API Rest básica com PHP e um banco de dados MySQL
+
+- Listar todas as tarefas/GET.
+
+- Detalhes da tarefa específica/GET.
+
+- Adiciona nova tarefa/POST.
+
+- Atualiza dados da tarefa/PUT.
+
+- Excluir tarefa específica/DEL.
+
+- Alguns apps usados:
+
+
