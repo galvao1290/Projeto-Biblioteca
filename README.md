@@ -7,17 +7,19 @@
 que os usuários realizem o cadastro de livros, com informações como título do livro, autor, editora, ano, quantidade em estoque
 e status de aluguel. </h3>
 
-<h3>Oque foi utilizado: </h3>
+Oque foi Utilizado
 
--Java
+- Java.
 
--Spring Boot
+- Spring Boot.
 
--Postman
+- Postaman.
 
--Herança, Classes abstratas e concretas
+- Herança, Classes Abstratas e Concretas.
 
--Metodos concretos, Interfaces e Encapsulamento
+- Metodos Concretos, Interfaces e Encapsulamento.
+
+
 
 <h3>CRUD: </h3>
 
@@ -35,20 +37,5 @@ e status de aluguel. </h3>
 
 
 <h3>Vídeo:</h3>
-
-
-Criação de API Rest básica com PHP e um banco de dados MySQL
-
-- Listar todas as tarefas/GET.
-
-- Detalhes da tarefa específica/GET.
-
-- Adiciona nova tarefa/POST.
-
-- Atualiza dados da tarefa/PUT.
-
-- Excluir tarefa específica/DEL.
-
-- Alguns apps usados:
 
 
