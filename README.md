@@ -4,7 +4,7 @@
 
 <h3>Introdução: </h3>
 <h3>O projeto demonstra a criação de um sistema de gestão de biblioteca ,tem como objetivo permitir
-que os usuários realizem o cadastro de livros, com informações como quantidade em estoque, gênero
+que os usuários realizem o cadastro de livros, com informações como título do livro, autor, editora, ano, quantidade em estoque
 e status de aluguel. </h3>
 
 <h3>Oque foi utilizado: </h3>
