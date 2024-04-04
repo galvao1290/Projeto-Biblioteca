@@ -7,6 +7,23 @@
 que os usuários realizem o cadastro de livros, com informações como quantidade em estoque, gênero
 e status de aluguel. </h3>
 
+<h3>Oque foi utilizado: </h3>
+
+-Java
+-Spring Boot
+-Postman
+-Herança, Classes abstratas e concretas
+-Metodos concretos, Interfaces e Encapsulamento
+
+<h3>CRUD: </h3>
+
+-Criar Livro
+-Listar Livro
+-Atualizar Livro
+-Deletar Livro
+<h3>Além do CRUD, optamos por escolher o metodo de buscar um livro por ID em nosso Sistema de Gestão. </h3>
+-Buscar Livro Por ID
+
 <h3>Vídeo:</h3>
 
 
