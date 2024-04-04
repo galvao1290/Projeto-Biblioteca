@@ -29,8 +29,6 @@ e status de aluguel. </h3>
 
 - Deleta livro específico/DEL.
 
-- Alguns apps usados:
-
 <h3>Além do CRUD, optamos por escolher o metodo de buscar um livro por ID em nosso Sistema de Gestão. </h3>
 
 - Busca livro por ID específico/GET.
