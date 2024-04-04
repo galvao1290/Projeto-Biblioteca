@@ -7,6 +7,14 @@
 que os usuários realizem o cadastro de livros, com informações como título do livro, autor, editora, ano, quantidade em estoque
 e status de aluguel. </h3>
 
+<h3>Vídeo1:</h3>
+
+https://youtu.be/4zLwxYyvnWc
+
+<h3>Vídeo2:</h3>
+
+https://youtu.be/W7Pb2DmC9S4
+
 <h3>Oque foi Utilizado</h3>
 
 - Java.
@@ -32,11 +40,3 @@ e status de aluguel. </h3>
 <h3>Além do CRUD, optamos por escolher o metodo de buscar um livro por ID em nosso Sistema de Gestão. </h3>
 
 - Busca livro por ID específico/GET.
-
-<h3>Vídeo1:</h3>
-
-https://youtu.be/4zLwxYyvnWc
-
-<h3>Vídeo2:</h3>
-
-https://youtu.be/W7Pb2DmC9S4
